@@ -5,3 +5,4 @@ do
     echo $2
     i=`echo $i+1|bc`
 done
+
